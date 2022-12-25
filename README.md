@@ -7,20 +7,20 @@ This is an analysis of 300,024 employees at Pewlett Hackard. The original csv ti
 The purpose of this analysis is to count the number of employees retiring with each job title and to figure out which of the remaining employees would be eligible for a mentorship program. The membership program is for those who are ten years away from retirement. 
 
 ## <u>Results</u>
-- Senior Engineers and Senior Staff are going to experience the greatest losses in employees.
+- There are seven different titles of employees who will be retiring. 
 
-- 
+-  Senior Engineers and Senior Staff are going to experience the greatest losses in employees.
+
+- Only two managers will be retiring.
 
 - 499,494 employees are eligible for the mentorship program.  
-
--
 
 <img width="500" alt="cccc" src="https://user-images.githubusercontent.com/116980760/209454153-40ad5b1c-5957-40d6-b334-94f9570e33d6.PNG">
 
 ## <u>Summary<u>
-  - Of those who are eligible for the mentorship progream, 569 and 529 are senior staff and senior engineers repectively. 
+  - Of those who are eligible for the mentorship progream, 569 and 529 are already senior staff and senior engineers repectively. 
   
-  <img width="311" alt="queryxz" src="https://user-images.githubusercontent.com/116980760/209454280-e207e31f-a69d-484a-821d-292d871dc97b.PNG">
+  <img width="511" alt="queryxz" src="https://user-images.githubusercontent.com/116980760/209454280-e207e31f-a69d-484a-821d-292d871dc97b.PNG">
 
-  <img width="127" alt="xounsaf" src="https://user-images.githubusercontent.com/116980760/209454273-b74d7d8f-ed91-45f3-b8a5-c93141b14c94.PNG">
+  <img width="300" alt="xounsaf" src="https://user-images.githubusercontent.com/116980760/209454273-b74d7d8f-ed91-45f3-b8a5-c93141b14c94.PNG">
 
